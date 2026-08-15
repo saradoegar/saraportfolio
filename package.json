@@ -1,0 +1,9 @@
+{
+  "name": "sara-doegar-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio website for Sara Doegar.",
+  "scripts": {
+    "start": "python -m http.server 5173"
+  }
+}
